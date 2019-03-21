@@ -1,6 +1,6 @@
 # Dan's One File Photo Gallery
 
-## What Is Dan's One File Photo Gallery
+## What is Dan's One File Photo Gallery
 
 Dan's One File Photo Gallery is a way for you to easily display all of your photos on your website. The only requirements are that you have a website which supports PHP 5. From there just put your photos and my file on your website and that's it. Just go to the file in your web browser and your pictures will be displayed.
 
