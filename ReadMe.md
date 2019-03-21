@@ -19,6 +19,10 @@ For example, I have my own webserver so all I had to do was put my Photo Gallery
 - It's open source! If you feel like changing something go right ahead
 - It's only one file!
 
+## Examples
+
+To see the photo gallery in action, take a look [here](http://danskingdom.com/Dans%20One%20Photo%20File%20Gallery/DansOneFilePhotoGallery.php) and [here](http://danskingdom.com/Dans%20One%20Photo%20File%20Gallery/DansOneFilePhotoGalleryAll.php).
+
 ## Installation
 
 Installation instructions are also provided within the file itself at the very top.
@@ -30,7 +34,7 @@ Installation instructions are also provided within the file itself at the very t
 
 ### Installation instructions
 
-1. Drop this file into the directory containing your photos, then simply navigate to the file in your web browser. The file display any photos found in the directory, as well as any found in its subdirectories.
+1. Drop the `DansOneFilePhotoGallery.php` file into the directory containing your photos, then simply navigate to the file in your web browser. The file display any photos found in the directory, as well as any found in its subdirectories.
 1. The GD Graphics Library must be enabled. This is a standard library included with PHP 5, but it is not enabled by default. Simply locate your php.ini file (usually in C:\PHP or C:\Windows) and uncomment the line ";extension=php_gd2.dll" (So it should read "extension=php_gd2.dll"). If you do not host your own website you may have to contact your hosting provider and ask them to do this for you if they have not already done it. If this is not enabled then no pictures will show up. So if everything else shows up except the pictures, this is likely the problem.
 
 ## Change log
